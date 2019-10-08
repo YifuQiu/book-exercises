@@ -22,7 +22,7 @@ imperial_to_metric = function(feet, inch){
 # `imperial_to_metric` function
 
 mH = imperial_to_metric(1,6)
-print(mH)
+
 
 
 
